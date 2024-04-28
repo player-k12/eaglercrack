@@ -1,4 +1,4 @@
-# [EaglercrackX](https://eaglercrackx.netlify.app)
+# [EaglercrackX](https://eaglercrack.github.io/)
 ## FORK or DOWNLOAD or DEOPLOY this repository before it gets DMCA
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/eaglercrack/eaglercrack.github.io)
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Feaglercrack%2Feaglercrack.github.io)
@@ -13,4 +13,4 @@
 ##
 ![Server Checker](https://media.discordapp.net/attachments/1196501833049452705/1203713976911794277/image.png?ex=65d21900&is=65bfa400&hm=6234f0e2b00f30a534155259948f247af44b5f6afbbb2a5df1cb821428a67fa6&=&format=webp&quality=lossless&width=892&height=394)
 
-# [Main Eaglercrack Repository](https://github.com/rimmvb/eaglercrack)
+# [Main Eaglercrack Repository](https://github.com/eaglercrack/eaglercrack.github.io)
